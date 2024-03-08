@@ -2,7 +2,7 @@
 
     height: auto;
     width: 490px;
-    margin: auto;
+    margin: 5px;
 }
 #container{
     display: flex;
